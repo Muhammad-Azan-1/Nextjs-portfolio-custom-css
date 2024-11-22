@@ -34,10 +34,10 @@ const About = () => {
                 <Link href="">
                   <FontAwesomeIcon icon={faFacebook} />
                 </Link>
-                <Link href="">
+                <Link href="https://www.instagram.com/azan.jundullah/" target="_blank">
                   <FontAwesomeIcon icon={faInstagram} />
                 </Link>
-                <Link href="">
+                <Link href="https://www.linkedin.com/in/muhammad-azan-/" target="_blank">
                   <FontAwesomeIcon icon={faLinkedinIn} />
                 </Link>
                 <Link href="">

@@ -6,8 +6,8 @@ import {
   faFacebook,
   faInstagram,
   faLinkedin,
-  faYoutube,
   faTwitter,
+  faWhatsapp,
 } from "@fortawesome/free-brands-svg-icons";
 const Footer = () => {
   return (
@@ -32,17 +32,17 @@ const Footer = () => {
               <Link href="">
                 <FontAwesomeIcon icon={faFacebook} />
               </Link>
-              <Link href="">
-                <FontAwesomeIcon icon={faInstagram} />
+              <Link href="tel:+923101285239" target="_blank">
+                <FontAwesomeIcon icon={faWhatsapp} />
               </Link>
               <Link href="">
                 <FontAwesomeIcon icon={faTwitter} />
               </Link>
-              <Link href="">
+              <Link href="https://www.linkedin.com/in/muhammad-azan-/" target="_blank">
                 <FontAwesomeIcon icon={faLinkedin} />
               </Link>
-              <Link href="">
-                <FontAwesomeIcon icon={faYoutube} />
+              <Link href="https://www.instagram.com/azan.jundullah/" target="_blank">
+                <FontAwesomeIcon icon={faInstagram} />
               </Link>
             </div>
           </div>
