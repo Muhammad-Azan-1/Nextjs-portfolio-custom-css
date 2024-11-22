@@ -15,7 +15,7 @@ const Header = () => {
       <div className={style.headerbg}>
         <div className={style.logo}>
           <Image
-            src="/images/SAAD.svg"
+            src="/Images/SAAD.svg"
             alt="Logo"
             width={170}
             height={40}
