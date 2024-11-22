@@ -60,7 +60,7 @@ const Header = () => {
         </div>
 
         <div className={style.btn}>
-          <button>Let's Connect</button>
+          <button>Let&apos;s Connect</button>
         </div>
       </div>
     </>
