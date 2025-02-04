@@ -1,7 +1,7 @@
 
 import styles from "./page.module.css";
-import Header from "./Components/header/Header";
-import Hero from "./Components/hero/Hero"
+import Header from "@/components/header/Header";
+import Hero from "@/components/hero/Hero"
 export default function Home() {
   return (
     <>

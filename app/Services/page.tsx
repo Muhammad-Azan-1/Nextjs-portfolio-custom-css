@@ -1,5 +1,5 @@
 import style from "./page.module.css";
-import Header from "../Components/header/Header";
+import Header from "@/components/header/Header";
 import Image from "next/image";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPlay } from "@fortawesome/free-solid-svg-icons";
